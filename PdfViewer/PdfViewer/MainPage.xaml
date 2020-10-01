@@ -25,9 +25,7 @@
 		</ScrollViewer>
 
 		<Image Name="PdfImage" Grid.Row="0" Margin="10"></Image>
-		<Button Grid.Row="1" Margin="10,0,0,0" Click="Button_Click_Open_PDF" >Open</Button>
-		<Button Grid.Row="1" Margin="300,0,0,0" Click="Next_Click" >Next</Button>
-		<Button Grid.Row="1" Margin="230,0,0,0" Click="Prev_Click" >Prev</Button>
+        <Button Grid.Row="1" Margin="10,0,0,0" Click="Button_Click_Open_PDF" >Open</Button>
 
-	</Grid>
+    </Grid>
 </Page>
